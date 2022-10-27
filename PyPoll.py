@@ -46,7 +46,7 @@ with open(file_to_load) as election_data:
 with open(file_to_save, "w") as txt_file:
     # After opening file print the final vote count to the terminal.
     election_results = (
-        f"\nElection rsults\n"
+        f"\nElection results\n"
         f"-------------------------\n"
         f"Total votes: {total_votes:,}\n"
         f"-------------------------\n")
