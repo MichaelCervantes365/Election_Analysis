@@ -35,7 +35,9 @@ The analysis of the election shows that:
   -	The winner of the election was:
       -	Diana DeGette, who received 73.8% of the vote with a count of 272,892 votes.
 
-![Below is a screenshot of the election analysis txt file](Resources/election_analysis_txt.png)
+Below is a screenshot of the election analysis txt file
+
+![Pic 1](Resources/election_analysis_txt.png)
 
 ## Election-Audit Summary
 The python script used for this audit successfully formulated the analysis results ordered by the election commission.
@@ -44,6 +46,7 @@ The following are possible script modifications that can be used:
   -	Example 1: The “file_to _load” variable can easily be given a new path to a different CSV file if another election collects data in the same CSV format used in this election.
   -	Example 2: The “file_to_save” variable can also be assigned to a new text file to record the results.
 
-![Here is a screenshot of the location where these modifications can be made:](Resources/script_code_modifciation_location.png)
+Here is a screenshot of the location where these modifications can be made:
+![Pic 2](Resources/script_code_modifciation_location.png)
 
 Further modifications are possible with this script and can be done under the guidance or in the hands of a properly trained programmer specializing in Data Analytics.  For further consultation with specific requests or questions, please reach out to our team or me, as we will be pleased to be of service to your business needs.
