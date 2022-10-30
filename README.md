@@ -19,22 +19,24 @@ The Colorado Board of Elections has requested the following to help complete an 
 The analysis of the election shows that:
   -	There was a total of 369,711 votes cast in the election.
   -	Voter turnout for each county:
-      o	Jefferson received 10.5% of the vote, with 38,855 votes.
-      o	Denver received 82.8% of the vote, with 306,055 votes.
-      o	Arapahoe received 6.7% of the vote, with 24,801 votes.
+      - Jefferson received 10.5% of the vote, with 38,855 votes.
+      - Denver received 82.8% of the vote, with 306,055 votes.
+      - Arapahoe received 6.7% of the vote, with 24,801 votes.
   -	 The county with the largest voter turnout was:
-      o	Denver with 82.8% of the vote, with a count of 306,055 votes
+      - Denver with 82.8% of the vote, with a count of 306,055 votes
   -	The candidates were:
-      o	Charles Casper Stockham
-      o	Diana DeGette
-      o	Raymon Anthony Doane
+      - Charles Casper Stockham
+      -	Diana DeGette
+      -	Raymon Anthony Doane
   -	The candidate results were:
-      o	Charles Casper Stockham received 23.0% of the vote, with 85,213 votes.
-      o	Diana DeGette received 73.8% of the vote, with 272,892 votes.
-      o	Raymon Anthony Doane received 3.1% of the vote, with 11,606 votes.
+      -	Charles Casper Stockham received 23.0% of the vote, with 85,213 votes.
+      -	Diana DeGette received 73.8% of the vote, with 272,892 votes.
+      -	Raymon Anthony Doane received 3.1% of the vote, with 11,606 votes.
   -	The winner of the election was:
-      o	Diana DeGette, who received 73.8% of the vote with a count of 272,892 votes.
-![Below is a screenshot of the election analysis txt file](Resources/election_analysis_txt.png)
+      -	Diana DeGette, who received 73.8% of the vote with a count of 272,892 votes.
+
+ Below is a screenshot of the election analysis txt file
+ (Resources/election_analysis_txt.png)
 
 ## Election-Audit Summary
 The python script used for this audit successfully formulated the analysis results ordered by the election commission.
@@ -42,6 +44,7 @@ This script was programmed to be mutable so that it would allow modifications to
 The following are possible script modifications that can be used:
   -	Example 1: The “file_to _load” variable can easily be given a new path to a different CSV file if another election collects data in the same CSV format used in this election.
   -	Example 2: The “file_to_save” variable can also be assigned to a new text file to record the results.
-![Here is a screenshot of the location where these modifications can be made:](Resources/script_code_modifciation_location.png)
+Here is a screenshot of the location where these modifications can be made:
+(Resources/script_code_modifciation_location.png)
 
 Further modifications are possible with this script and can be done under the guidance or in the hands of a properly trained programmer specializing in Data Analytics.  For further consultation with specific requests or questions, please reach out to our team or me, as we will be pleased to be of service to your business needs.
