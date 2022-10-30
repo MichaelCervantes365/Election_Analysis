@@ -35,7 +35,7 @@ The analysis of the election shows that:
   -	The winner of the election was:
       -	Diana DeGette, who received 73.8% of the vote with a count of 272,892 votes.
 
-Below is a screenshot of the election analysis txt file
+Below is a screenshot of the election analysis txt file:
 
 ![Pic 1](Resources/election_analysis_txt.png)
 
@@ -47,6 +47,7 @@ The following are possible script modifications that can be used:
   -	Example 2: The “file_to_save” variable can also be assigned to a new text file to record the results.
 
 Here is a screenshot of the location where these modifications can be made:
+
 ![Pic 2](Resources/script_code_modifciation_location.png)
 
 Further modifications are possible with this script and can be done under the guidance or in the hands of a properly trained programmer specializing in Data Analytics.  For further consultation with specific requests or questions, please reach out to our team or me, as we will be pleased to be of service to your business needs.
