@@ -41,7 +41,9 @@ Below is a screenshot of the election analysis txt file:
 
 ## Election-Audit Summary
 The python script used for this audit successfully formulated the analysis results ordered by the election commission.
+
 This script was programmed to be mutable so that it would allow modifications to be made.  This is possible because the python code is not hardcoded to any specific candidate name or county.  Thus, those variables used in this script have no associated value until assigned.  This only happens when the script’s instructions read, iterate, and pull the needed data from a provided CSV file.  Highlighting this illustrates how this script can be used in other elections.
+
 The following are possible script modifications that can be used:
   -	Example 1: The “file_to _load” variable can easily be given a new path to a different CSV file if another election collects data in the same CSV format used in this election.
   -	Example 2: The “file_to_save” variable can also be assigned to a new text file to record the results.
